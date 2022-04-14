@@ -1,0 +1,38 @@
+
+p{
+    font-family: Arial, Helvetica, sans-serif;
+}
+h2{
+    color:rgb(56, 56, 82);
+    font-size: 25px;
+    font-weight: bold;
+    font-style: italic;
+}
+.MainTitle{
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size:30px;
+    font-weight:bold;
+    font-style:italic;
+}
+body{
+    background-color: antiquewhite;
+
+}
+.time{
+    font-style:italic;
+    font-size: 16px;
+}
+.centerimage{
+    text-align:center;
+
+}
+.links{
+    text-decorator:underline;
+    color:rgb(100, 100, 106);
+
+}
+.contact{
+    font-size:18px;
+}
+
+
